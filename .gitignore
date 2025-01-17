@@ -1,0 +1,14 @@
+.history/
+ER-Diagram/
+node_modules/
+faculty/
+student/
+.env
+delete.js
+delete.txt
+imp.js
+routes_Address.txt
+temp.js
+temp.txt
+faculty/
+database/tableCreation.js
